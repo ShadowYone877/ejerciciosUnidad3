@@ -2,6 +2,7 @@ import java.util.Stack;
 class PilaCarlos{
     public static void main (String[] args){
         Stack<Character> pila=new Stack<Character>();
+
         pila.push('C');
         pila.push('A');
         pila.push('R');
@@ -11,7 +12,7 @@ class PilaCarlos{
         pila.push(' ');
 
         System.out.println(pila.peek());
-
+ 
         pila.push('A');
         pila.push('N');
         pila.push('G');
