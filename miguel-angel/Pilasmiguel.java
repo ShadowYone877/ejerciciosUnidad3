@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class Pilas{
+class Pilasmiguel{
     public static void main(String[] args) {
 
         Stack<Character> pila = new Stack<Character>();
@@ -44,4 +44,3 @@ class Pilas{
         }
     }
 }
-
